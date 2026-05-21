@@ -26,7 +26,7 @@ Al mover el mouse de un lado al otro (en X) los circulos se agrandan o se achica
 Estos círculos representan la cantidad de presión que se ejerce sobre la mujer.
 
 ##  Input / Output y sistema   
-### ¿Qué datos entran? (INPUT)  
+### ¿Qué datos entran? 
 * El usuario presiona una tecla.  
 * El usuario hace clic.  
 * El usuario mueve el mouse en X.
@@ -41,7 +41,7 @@ El código detecta y transforma las acciones mediante:
 * mapeos.
 * funciones propias.  
 
-### ¿Qué respuesta visual producen? (OUTPUT)  
+### ¿Qué respuesta visual producen? 
 En respuesta a las distintas interacciones del usuario se genera:  
 * La pantalla cambia en su totalidad (clic o tecla)
 * Círculos se acercan o se alejan (posición del mouse).  
