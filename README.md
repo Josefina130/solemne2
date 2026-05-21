@@ -20,7 +20,7 @@ Principalmente círculos y textos, también se pueden apreciar imágenes, divers
 Los estándares de belleza en mujeres son sumamente exigentes e imposibles de lograr, la sociedad ha construido ideales de apariencia que generan una constante presión sobre el cuerpo y la imagen femenina. En este proyecto, esa presión es representada visualmente a través de ojos que observan a la mujer en el centro e incomodan constantemente al espectador, simbolizando la sensación de estar siendo juzgada de manera permanente por la sociedad. La mirada funciona como una metáfora de la vigilancia y crítica continua hacia la apariencia femenina, generando incomodidad y tensión dentro de la experiencia interactiva. Además, se incorporan textos con mensajes explícitos y frases comunes que suelen imponerse a las mujeres respecto a su físico, evidenciando cómo estas opiniones y exigencias se encuentran normalizadas en la vida cotidiana.  
 
 ### ¿Cuál es la regla de oro de tu sistema?  
-Al mover el mouse de un lado al otro (en X) los circulos se agandan o se achican.  
+Al mover el mouse de un lado al otro (en X) los circulos se agrandan o se achican.  
 
 ### ¿Cómo se relaciona esta lógica con la problemática de género elegida?  
 Estos círculos representan la cantidad de presión que se ejerce sobre la mujer.
