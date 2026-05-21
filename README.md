@@ -10,14 +10,14 @@ Es un sketch hecho en P5.js que tiene como objetivo visibilizar y reflexionar so
 Esta exigencia crea inseguridades, frustración y la sensación de no ser suficientes, ya que los modelos de belleza suelen ser irreales e imposibles de alcanzar. El sketch evidencia cómo estas presiones afectan emocionalmente a las mujeres, influyendo en su autoestima y en la percepción que tienen de sí mismas. De esta forma, el proyecto utiliza el lenguaje visual y la programación creativa para transformar una problemática de género en una experiencia interactiva y reflexiva.  
 
 ### ¿Qué se ve en pantalla?  
-En el sketch de 600 x 400 píxeles se puede apreciar principalmente una mujer en el centro y numerosos ojos a su alrededor que según la posición del mouse cambian de tamaño. Al hacer clic se ve una mujer “perfecta” y todos los ojos desaparecen.  
+En el sketch de 600 x 400 píxeles se puede apreciar principalmente una mujer en el centro con numerosos ojos a su alrededor y textos aparecen al azar detras de la chica. Al hacer clic se ve una mujer “perfecta” y todos los ojos desaparecen.  
 
 ### ¿Qué elementos visuales aparecen?  
 Principalmente círculos y textos, también se pueden apreciar imágenes, diversas figuras geométricas (elipses y triángulos) y distintos colores  
 
 ## Descripción conceptual  
 ### Idea central del proyecto y su relación con el sistema diseñado  
-Los estándares de belleza en mujeres son sumamente exigentes e imposibles de lograr, la sociedad ha construido ideales de apariencia que generan una constante presión sobre el cuerpo y la imagen femenina. En este proyecto, esa presión es representada visualmente a través de ojos que observan a la mujer en el centro e incomodan constantemente al espectador, simbolizando la sensación de estar siendo juzgada de manera permanente por la sociedad. La mirada funciona como una metáfora de la vigilancia y crítica continua hacia la apariencia femenina, generando incomodidad y tensión dentro de la experiencia interactiva. Además, se incorporan textos con mensajes explícitos y frases comunes que suelen imponerse a las mujeres respecto a su físico y comportamiento, evidenciando cómo estas opiniones y exigencias se encuentran normalizadas en la vida cotidiana.  
+Los estándares de belleza en mujeres son sumamente exigentes e imposibles de lograr, la sociedad ha construido ideales de apariencia que generan una constante presión sobre el cuerpo y la imagen femenina. En este proyecto, esa presión es representada visualmente a través de ojos que observan a la mujer en el centro e incomodan constantemente al espectador, simbolizando la sensación de estar siendo juzgada de manera permanente por la sociedad. La mirada funciona como una metáfora de la vigilancia y crítica continua hacia la apariencia femenina, generando incomodidad y tensión dentro de la experiencia interactiva. Además, se incorporan textos con mensajes explícitos y frases comunes que suelen imponerse a las mujeres respecto a su físico, evidenciando cómo estas opiniones y exigencias se encuentran normalizadas en la vida cotidiana.  
 
 ### ¿Cuál es la regla de oro de tu sistema?  
 A menor Y los círculos (ojos) se agrandan.  
