@@ -43,7 +43,7 @@ El código detecta y transforma las acciones mediante:
 
 ### ¿Qué respuesta visual producen? 
 En respuesta a las distintas interacciones del usuario se genera:  
-* La pantalla cambia en su totalidad (clic o tecla)
+* La pantalla cambia en su totalidad (clic o tecla).
 * Círculos se acercan o se alejan (posición del mouse).  
 
 ## Pensamiento computacional  
@@ -67,8 +67,8 @@ Esta obra de la artista Margaret Keane (que tuvo conflictos sobre la autoría de
 
 ## Código p5.js  
 
- ```
+ ```  
 
- ```
+ ```  
 
-## [Sketch p5.js]()
+## [Sketch p5.js]()  
