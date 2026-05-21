@@ -10,7 +10,7 @@ Es un sketch hecho en P5.js que tiene como objetivo visibilizar y reflexionar so
 Esta exigencia crea inseguridades, frustración y la sensación de no ser suficientes, ya que los modelos de belleza suelen ser irreales e imposibles de alcanzar. El sketch evidencia cómo estas presiones afectan emocionalmente a las mujeres, influyendo en su autoestima y en la percepción que tienen de sí mismas. De esta forma, el proyecto utiliza el lenguaje visual y la programación creativa para transformar una problemática de género en una experiencia interactiva y reflexiva.  
 
 ### ¿Qué se ve en pantalla?  
-En el sketch de 600 x 400 píxeles se puede apreciar principalmente una mujer en el centro con numerosos ojos a su alrededor que cambian de tamaño de manera random y textos de distintos colores aparecen de manera random detras de la chica. Al mantener presionado el mouse se ve la imagen de una chica agobiada, estresada y depresiva, junto con un texto que refleja sus sentimientos más profundos.
+En el sketch de 600 x 400 píxeles se puede apreciar principalmente una mujer en el centro con numerosos ojos a su alrededor que cambian de tamaño de manera random y textos de distintos colores aparecen de manera random detras de la chica. Al mantener presionado el mouse se ve la imagen de una chica agobiada, estresada y con una cadena al tobillo arrastrando el peso de la perfección, junto con un texto que refleja sus sentimientos más profundos.
 
 ### ¿Qué elementos visuales aparecen?  
 Principalmente círculos y textos, también se pueden apreciar imágenes, diversas figuras geométricas (elipses, triángulos y cuadrados) y distintos colores.  
