@@ -200,9 +200,9 @@ if (mouseIsPressed) { // Se genera una condicional: Si se presiona el mouse se c
 background(255); // Se le asigna un color al fondo, de color blanco
 textSize(25) // Se le asigna el tamaño al texto
 stroke(255); //Se le asigna el color del borde
-text('La belleza duele, dicen',180,70) // Se le añade el texto "La belleza duele, dicen" en las coordenadas 180,70
+text('Presa de la perfección',180,70) // Se le añade el texto "Presa de la perfección" en las coordenadas 180,70
 imageMode(CENTER); //Se situa la imagen desde el centro
-image(chica2,300,300,230,200); //Se coloca la imagen en las coordenadas 300,300
+image(chica2,300,290,150,270); //Se coloca la imagen en las coordenadas 300,300
 
 fill(0); // Se rellena de color negro
 rect(0,120,width,40); // Se crea un rectangulo en las coordenadas 0 y 120 y que tenga el mismo ancho del canvas
@@ -214,7 +214,6 @@ text('Y tal vez algún día seré aceptada',115,145) // Se le añade el texto "Y
 
 
 }
-
 
 
  ```  
