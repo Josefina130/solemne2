@@ -13,14 +13,14 @@ Esta exigencia crea inseguridades, frustración y la sensación de no ser sufici
 En el sketch de 600 x 400 píxeles se puede apreciar principalmente una mujer en el centro con numerosos ojos a su alrededor que cambian de tamaño de manera random y textos de distintos colores aparecen de manera random detras de la chica. Al mantener presionado el mouse se ve la imagen de una chica agobiada, estresada y depresiva, junto con un texto que refleja sus sentimientos más profundos.
 
 ### ¿Qué elementos visuales aparecen?  
-Principalmente círculos y textos, también se pueden apreciar imágenes, diversas figuras geométricas (elipses y triángulos y cuadrados) y distintos colores.  
+Principalmente círculos y textos, también se pueden apreciar imágenes, diversas figuras geométricas (elipses, triángulos y cuadrados) y distintos colores.  
 
 ## Descripción conceptual  
 ### Idea central del proyecto y su relación con el sistema diseñado  
 Los estándares de belleza en mujeres son sumamente exigentes e imposibles de lograr, la sociedad ha construido ideales de apariencia que generan una constante presión sobre el cuerpo y la imagen femenina. En este proyecto, esa presión es representada visualmente a través de ojos que observan a la mujer en el centro e incomodan constantemente al espectador, simbolizando la sensación de estar siendo juzgada de manera permanente por la sociedad. La mirada funciona como una metáfora de la vigilancia y crítica continua hacia la apariencia femenina, generando incomodidad y tensión dentro de la experiencia interactiva. Además, se incorporan textos con mensajes explícitos y frases comunes que suelen imponerse a las mujeres respecto a su físico, evidenciando cómo estas opiniones y exigencias se encuentran normalizadas en la vida cotidiana.  
 
 ### ¿Cuál es la regla de oro de tu sistema?  
-Al mantener presionado el mouse se cambia a otra imagen totalmente diferente, pero con el mismo trasfondo.    
+Al mantener presionado el mouse se cambia a otra imagen con el mismo trasfondo.    
 
 ### ¿Cómo se relaciona esta lógica con la problemática de género elegida?  
 El mantener presionado el mouse evoca la presión que se mantiene en las mujeres solamente por existir y no coincidir con los estandares de belleza dictados por la sociedad.  
@@ -28,21 +28,21 @@ El mantener presionado el mouse evoca la presión que se mantiene en las mujeres
 ##  Input / Output y sistema   
 ### ¿Qué datos entran?    
 * El usuario mantiene presionado el mouse.  
-* Círculos, cuadrados y textos generados por la función random.
+* Círculos, cuadrados y textos generados por la función random.  
 * El usuario mueve el mouse en Y.  
 
 ### ¿Cómo se procesan y transforman?  
 El código detecta y transforma las acciones mediante:  
-* Condicionales.
-* Loops.
-* Rotaciónes.
-* generacion random.
-* mapeos.
+* Condicionales.  
+* Loops.  
+* Rotaciónes.  
+* generacion random.  
+* mapeos.  
 * funciones propias.  
 
 ### ¿Qué respuesta visual producen? 
 En respuesta a las distintas interacciones del usuario se genera:  
-* La pantalla cambia en su totalidad (clic).
+* La pantalla cambia en su totalidad (clic).  
 * El color y el tamaño del borde del cuadrado cambia según la posición Y del mouse.  
 
 ## Pensamiento computacional  
