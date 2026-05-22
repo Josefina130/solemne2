@@ -68,7 +68,11 @@ En este discurso dicho por la actriz America Ferrera se visibiliza todas las cos
 ### La serie "Propped" de Jenny Saville (1992)  
 La artista británica es conocida por sus enormes pinturas al óleo de cuerpos femeninos que escapan al canon de extrema delgadez. En "Propped" y otras obras, desafía la mirada masculina al mostrar la piel con pliegues, marcas de celulitis y proporciones reales, celebrando el cuerpo tal y como es.  
 
-![Propped](https://miro.medium.com/0*mgCLMtGMiNAHAGNi)
+![Propped](https://miro.medium.com/0*mgCLMtGMiNAHAGNi)  
+
+### "Terror of Beauty" de Sarah Amrani  
+Su obra critica cómo los filtros y las calculadoras de belleza online, basados en cánones occidentales, presionan a las mujeres a modificar sus rostros, borrando su identidad y transformando el cuidado personal en una batalla constante por una perfección inalcanzable.  
+![Terror of Beauty](https://static1.squarespace.com/static/5702ab9d746fb9634796c9f9/5702ad93b09f95bfee70b342/6746a1443cf669360434e10e/1752386795893/Strategy+of+Beautification+2018+C+Sarah+Amrani.jpeg?format=1500w)  
 
 ## Diagrama de flujo  
 
