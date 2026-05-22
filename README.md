@@ -60,6 +60,16 @@ Esta obra de la artista Margaret Keane (que tuvo conflictos sobre la autoría de
 
 ![corner eyes](https://www.keane-eyes.com/wp-content/uploads/2014/09/Corner-Eyes02-copy.jpeg)  
 
+### Discurso película Barbie (2023)  
+En este discurso dicho por la actriz America Ferrera se visibiliza todas las cosas que se le exigen a una mujer, sobre lo contradictorio y difícil que es siquiera intentar seguir los estándares impuestos por la sociedad.  
+
+![Discurso Barbie](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwCsnEQ3rsLDcF-zEyRYjwtSKs_Z6ersveWw&s)  
+
+### La serie "Propped" de Jenny Saville (1992)  
+La artista británica es conocida por sus enormes pinturas al óleo de cuerpos femeninos que escapan al canon de extrema delgadez. En "Propped" y otras obras, desafía la mirada masculina al mostrar la piel con pliegues, marcas de celulitis y proporciones reales, celebrando el cuerpo tal y como es.  
+
+![Propped](https://miro.medium.com/0*mgCLMtGMiNAHAGNi)
+
 ## Diagrama de flujo  
 
 
