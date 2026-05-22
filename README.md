@@ -77,7 +77,7 @@ Su obra critica cómo los filtros y las calculadoras de belleza online, basados 
 
 ## Diagrama de flujo  
 ![Diagrama de flujo](https://github.com/Josefina130/solemne2/blob/main/Diagrama%20de%20flujo.png)  
-
+![Diagrama de flujo]()
 
 ## Código p5.js  
 
