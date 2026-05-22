@@ -76,7 +76,7 @@ Su obra critica cómo los filtros y las calculadoras de belleza online, basados 
 ![Terror of Beauty](https://static1.squarespace.com/static/5702ab9d746fb9634796c9f9/5702ad93b09f95bfee70b342/6746a1443cf669360434e10e/1752386795893/Strategy+of+Beautification+2018+C+Sarah+Amrani.jpeg?format=1500w)  
 
 ## Diagrama de flujo  
-![Diagrama de flujo]()  
+![Diagrama de flujo](https://github.com/Josefina130/solemne2/blob/main/Diagrama%20de%20flujo.png)  
 
 
 ## Código p5.js  
