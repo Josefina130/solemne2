@@ -48,8 +48,9 @@ En respuesta a las distintas interacciones del usuario se genera:
 ## Pensamiento computacional  
 ### Reglas que gobiernan el sistema (inputs, procesos, outputs)  
 Las reglas que gobiernan el sistema son:  
-* El clic.  
-* La posición del mouse en Y.  
+* Si el usuario presiona una tecla: Se añaden palabras.
+* Si el usuario presiona el mouse: Se añade una nueva pantalla.
+* Si mueve el mouse verticalmente: El cuadrado se agranda.  
 
 ### Explicación del sistema de interactividad  
 El programa detecta las siguientes acciones (inputs): el movimiento del mouse en Y, los clics. Las interpreta (procesos) mediante condiciones, variables o cálculos y entrega una respuesta (output) visible en el sketch: cambia el contenido visual en la pantalla o cambia el color y tamaño del borde del cuadrado.  
@@ -75,6 +76,7 @@ Su obra critica cómo los filtros y las calculadoras de belleza online, basados 
 ![Terror of Beauty](https://static1.squarespace.com/static/5702ab9d746fb9634796c9f9/5702ad93b09f95bfee70b342/6746a1443cf669360434e10e/1752386795893/Strategy+of+Beautification+2018+C+Sarah+Amrani.jpeg?format=1500w)  
 
 ## Diagrama de flujo  
+![Diagrama de Flujo](Diagrama de Flujo.png)
 
 
 ## Código p5.js  
